@@ -37,3 +37,7 @@ Run the following command
 **docker run -d -p 8000:8000 mysite**
 
 Open your web browser and proceed to **http://localhost:8000**
+
+## Admin access
+
+For admin password to the auth backend, please contact the repo owner
